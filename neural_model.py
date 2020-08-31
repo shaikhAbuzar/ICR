@@ -77,9 +77,9 @@ for i, j in result:
         count += 1
 print(count)
 
-tf.keras.models.save_model(
-    model,
-    './trained_model1acc20.h5',
-    overwrite=True,
-    include_optimizer=True
-)
+# tf.keras.models.save_model(
+#     model,
+#     './trained_model1acc20.h5',
+#     overwrite=True,
+#     include_optimizer=True
+# )
