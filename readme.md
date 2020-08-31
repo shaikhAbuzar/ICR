@@ -1,12 +1,13 @@
 # ICR (Intelligent Character Recognition)
 >**NOTE:** This is a very granular level implementation of the ICR for Uppercase Alphabets, thus it can be used to be implemented in projects with ease. <br/>
----
+
 |`Library`|`Installaion`|
 |---|---|
 |opencv| `pip install opencv-python`|
 |tensorflow|`pip install tensorflow`|
 |numpy|`pip install numpy`|
-To run the model on your image data, just provide the path of the file in the `ICR.py` file abd change the following line 
+
+To run the model on your image data, just provide the path of the file in the `ICR.py` file and change the following line 
 ```python
 img = cv2.imread('path/to/your/file.extension')
 ```
