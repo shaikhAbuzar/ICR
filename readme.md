@@ -1,6 +1,12 @@
 # ICR (Intelligent Character Recognition)
 >**NOTE:** This is a very granular level implementation of the ICR for Uppercase Alphabets, thus it can be used to be implemented in projects with ease. <br/>
 
+>Input:
+>![Image of input](test1.jpg)
+
+>Output: 
+>![Output Image](contoured1.jpg)
+
 |`Library`|`Installaion`|
 |---|---|
 |opencv| `pip install opencv-python`|
